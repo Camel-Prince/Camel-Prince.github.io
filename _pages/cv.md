@@ -9,38 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2022: 南开大学软件工程学院软件工程专业，学士。
+* 2022-Today: 中国科学院计算技术研究所，计算机科学与技术专业，硕士在读。
   
-Skills
+研究兴趣
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 社会计算
+* 图机器学习
+  * 图异常检测
+  * 图预训练
+  * 图基础模型
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Notions
+======
+https://ictwzx.notion.site/c9aebb8528334f8eaa64facbb7801863?pvs=4
   
 Talks
 ======
@@ -56,4 +46,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* None
