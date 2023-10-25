@@ -10,7 +10,7 @@ locale                   : "中国北京市，中关村，中科院计算所"
 title                    : "王子旭的主页"
 title_separator          : "-"
 name                     : "王子旭"
-description              : "中国科学院计算技术研究所，智能算法安全重点实验室，研二在读，主攻图预训练和图基础模型方向"
+description              : "中国科学院计算技术研究所，智能算法安全重点实验室，基础研究组研二在读（还没有完全入门的科研小白）。研究兴趣：图预训练和图基础模型"
 url                      : "https://camel-prince.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Camel-Prince/camel-prince.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "王子旭"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "中国科学院计算技术研究所，智能算法安全重点实验室，基础研究组研二在读（还没有完全入门的科研小白）。研究兴趣：图预训练和图基础模型"
   location         : "中国北京市中关村科学院南路6号"
-  employer         :
+  employer         : "Xueqi Cheng"
   pubmed           : ""
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "wangzixu22s@ict.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,12 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  notion           : "https://ictwzx.notion.site/c9aebb8528334f8eaa64facbb7801863?pvs=4"
 
 
 # Reading Files
