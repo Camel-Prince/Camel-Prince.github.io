@@ -85,7 +85,7 @@ author:
   bio              : "中国科学院计算技术研究所，智能算法安全重点实验室，基础研究组研二在读（还没有完全入门的科研小白）。研究兴趣：图预训练和图基础模型"
   location         : "中国北京市中关村科学院南路6号"
   employer         : "Xueqi Cheng"
-  pubmed           : ""
+  # pubmed           : ""
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wangzixu22s@ict.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  notion           : "https://ictwzx.notion.site/c9aebb8528334f8eaa64facbb7801863?pvs=4"
+  notion           : "http://ictwzx.notion.site/c9aebb8528334f8eaa64facbb7801863?pvs=4"
 
 
 # Reading Files
