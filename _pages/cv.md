@@ -30,7 +30,8 @@ Publications
 
 Notions
 ======
-https://ictwzx.notion.site/c9aebb8528334f8eaa64facbb7801863?pvs=4
+我的个人科研笔记 [Notion](https://ictwzx.notion.site/c9aebb8528334f8eaa64facbb7801863?pvs=4 "Notion").
+
   
 Talks
 ======
