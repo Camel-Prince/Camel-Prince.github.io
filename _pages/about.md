@@ -38,34 +38,34 @@ _**Zixu Wang**, Bin Xie, Bingbing Xu, Shengmao Zhu, Yige Yuan, Liang Pang, Du Su
 
 _Engineering Applications of Artificial Intelligence (Under Review, **JCR Q1**, IF 8.0)_
 
-[[Pdf](pdf/social_sim_survey.pdf)]
+[[Pdf](docs/social_sim_survey.pdf)]
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/IFL_GCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR2025</div><img src='images/IFL_GCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning
 
 _**Zixu Wang**, Bingbing Xu, Yige Yuan, Huawei Shen, Xueqi Cheng_
 
-_SIGIR'25 (Acc, **CCF-A**)_
+_ACM Special Interest Group on Information Retrieval, SIGIR'25 (Accepted, **CCF-A**)_
 
-[[Pdf](pdf/IFL_GCL.pdf)]
+[[Pdf](docs/IFL_GCL.pdf)]
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/NaP_GCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR2024</div><img src='images/NaP_GCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Negative as Positive: Enhancing Out-of-distribution Generalization for Graph Contrastive Learning
 
 _**Zixu Wang**, Bingbing Xu, Yige Yuan, Huawei Shen, Xueqi Cheng_
 
-_SIGIR'24 (Acc, **CCF-A**)_
+_ACM Special Interest Group on Information Retrieval, SIGIR'24 (Accepted, **CCF-A**)_
 
-[[Pdf](pdf/NaP_GCL.pdf)]
+[[Pdf](docs/NaP_GCL.pdf)]
 </div>
 </div>
 
