@@ -17,42 +17,69 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello everyone, I am Zixu Wang （王子旭）, a doctoral student at the State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences. My supervisor is Researcher [Xueqi Cheng](https://ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on cognitive mapping and prediction of social networks, with specific interests in :**graph pre-training；graph foundation models； and topology optimization of LLM-based Multi-Agent Systems.**
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations
+- 09/2022 ~ Present: Institute of Computing Technology, Chinese Academy of Sciences.
+    - Ph.D. Student in *Computer Science and Technology*
+- 09/2018 ~ 06/2022: College of Software, Nankai University
+    - B.Sc. in *Software Engineering*
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/social_sim_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+A Survey on LLM-based Agents for Social Simulation: Taxonomy, Evaluation and Applications
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+_**Zixu Wang**, Bin Xie, Bingbing Xu, Shengmao Zhu, Yige Yuan, Liang Pang, Du Su, Long Yang, Zixuan Li, Huawei Shen, Xueqi Cheng_
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+_Engineering Applications of Artificial Intelligence (Under Review, **JCR Q1**, IF 8.0)_
+
+[[Pdf](pdf/social_sim_survey.pdf)]
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/IFL_GCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning
+
+_**Zixu Wang**, Bingbing Xu, Yige Yuan, Huawei Shen, Xueqi Cheng_
+
+_SIGIR'25 (Acc, **CCF-A**)_
+
+[[Pdf](pdf/IFL_GCL.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/NaP_GCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Negative as Positive: Enhancing Out-of-distribution Generalization for Graph Contrastive Learning
+
+_**Zixu Wang**, Bingbing Xu, Yige Yuan, Huawei Shen, Xueqi Cheng_
+
+_SIGIR'24 (Acc, **CCF-A**)_
+
+[[Pdf](pdf/NaP_GCL.pdf)]
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Student of State Key Laboratory of AI Safety, 2024 Annual Award, December 2024
+- First Prize in Academic Studies of the University of Chinese Academy of Sciences, September 2024
+- “Student with Excellence in Morality, Intelligence, and Physical Fitness” of the University of Chinese Academy of Sciences, June 2024
+- Nankai University Academic Excellence Scholarship (2020-2021 academic year), university-level scholarship of Nankai University, December 2021
+- Second Prize in Category A (Scientific and Technological Invention and Production) of Nankai University "President's Cup" Innovation and Entrepreneurship Competition, April 2021
+- Nankai University Academic Excellence Scholarship (2019-2020 academic year), university-level scholarship of Nankai University, December 2020
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Skills
+- Programming: C/C++, Matlab, Python, LaTeX
+- Artificial Inteligence: Pytorch, Numpy, SciPy
+- Languages: (Mandarin) Chinese, English
