@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zixu Wang (王子旭)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "State Key Laboratory of AI Security, Institute of Computing Technology, CAS"
+  bio              : "State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         : "Xueqi Cheng"
   pubmed           : 
