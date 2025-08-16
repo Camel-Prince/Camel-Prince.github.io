@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone, I am Zixu Wang （王子旭）, a doctoral student at the State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences. My supervisor is Researcher [Xueqi Cheng](https://ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html) and Vice-Research [Bingbing Xu](https://scholar.google.com/citations?hl=en&user=PSx2drgAAAAJ). 
+Hello everyone, I am Zixu Wang （王子旭）, a doctoral student at the State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences. My supervisor is Researcher [Xueqi Cheng](https://ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html) and Associate Researcher [Bingbing Xu](https://scholar.google.com/citations?hl=en&user=PSx2drgAAAAJ). 
 
 My research focuses on cognitive mapping and prediction of social networks, with specific interests in :**graph pre-training；graph foundation models； and topology optimization of LLM-based Multi-Agent Systems.**
 
@@ -38,7 +38,7 @@ _**Zixu Wang**, Bin Xie, Bingbing Xu, Shengmao Zhu, Yige Yuan, Liang Pang, Du Su
 
 _Engineering Applications of Artificial Intelligence (Under Review, **JCR Q1**, IF 8.0)_
 
-[[Pdf](docs/social_sim_survey.pdf)]
+[[Pdf](../docs/social_sim_survey.pdf)]
 </div>
 </div>
 
@@ -52,7 +52,7 @@ _**Zixu Wang**, Bingbing Xu, Yige Yuan, Huawei Shen, Xueqi Cheng_
 
 _ACM Special Interest Group on Information Retrieval, SIGIR'25 (Accepted, **CCF-A**)_
 
-[[Pdf](docs/IFL_GCL.pdf)]
+[[Pdf](../docs/IFL_GCL.pdf)]
 </div>
 </div>
 
@@ -65,7 +65,7 @@ _**Zixu Wang**, Bingbing Xu, Yige Yuan, Huawei Shen, Xueqi Cheng_
 
 _ACM Special Interest Group on Information Retrieval, SIGIR'24 (Accepted, **CCF-A**)_
 
-[[Pdf](docs/NaP_GCL.pdf)]
+[[Pdf](../docs/NaP_GCL.pdf)]
 </div>
 </div>
 
