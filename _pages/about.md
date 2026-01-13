@@ -29,7 +29,12 @@ My research focuses on cognitive mapping and prediction of social networks, with
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/social_sim_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <div class="badge">TCSS</div>
+    <img src='images/social_sim_survey.png' alt="sym" width="100%">
+  </div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 A Survey on LLM-based Agents for Social Simulation: Taxonomy, Evaluation and Applications
