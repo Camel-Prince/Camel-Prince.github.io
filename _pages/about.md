@@ -72,6 +72,7 @@ _ACM Special Interest Group on Information Retrieval, SIGIR'24 (Accepted, **CCF-
 
 
 # 🎖 Honors and Awards
+- National Master's Scholarship, October, 2025
 - Outstanding Student of State Key Laboratory of AI Safety, 2024 Annual Award, December 2024
 - First Prize in Academic Studies of the University of Chinese Academy of Sciences, September 2024
 - “Student with Excellence in Morality, Intelligence, and Physical Fitness” of the University of Chinese Academy of Sciences, June 2024
