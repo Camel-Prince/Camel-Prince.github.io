@@ -36,7 +36,7 @@ A Survey on LLM-based Agents for Social Simulation: Taxonomy, Evaluation and App
 
 _**Zixu Wang**, Bin Xie, Bingbing Xu, Shengmao Zhu, Yige Yuan, Liang Pang, Du Su, Long Yang, Zixuan Li, Huawei Shen, Xueqi Cheng_
 
-_Engineering Applications of Artificial Intelligence (Under Review, **JCR Q1**, IF 8.0)_
+_Transactions on Computational Social Systems (Under Review, **JCR Q1**, IF 4.9)_
 
 [[Pdf](../docs/social_sim_survey.pdf)]
 </div>
