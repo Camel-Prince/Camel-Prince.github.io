@@ -31,7 +31,7 @@ My research focuses on cognitive mapping and prediction of social networks, with
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <div class="badge">TCSS</div>
+    <div class="badge">ACL</div>
     <img src='images/rethinking_agentic_workflow_generation.png' alt="sym" width="100%">
   </div>
 </div>
