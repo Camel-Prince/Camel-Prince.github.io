@@ -32,6 +32,24 @@ My research focuses on cognitive mapping and prediction of social networks, with
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">TCSS</div>
+    <img src='images/rethinking_agentic_workflow_generation.png' alt="sym" width="100%">
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+Do We Always Need Query-Level Workflows? Rethinking Agentic Workflow Generation for Multi-Agent Systems
+
+_**Zixu Wang**, Bingbing Xu, Yige Yuan, Huawei Shen, Xueqi Cheng_
+
+_ACL (Under Review, **CCF-A**)_
+
+[[Pdf](../docs/rethinking_agentic_workflow_generation.pdf)]
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <div class="badge">TCSS</div>
     <img src='images/social_sim_survey.png' alt="sym" width="100%">
   </div>
 </div>
