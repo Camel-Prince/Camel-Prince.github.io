@@ -103,7 +103,7 @@ _ACM Special Interest Group on Information Retrieval, SIGIR'24 (Accepted, **CCF-
 - Second Prize in Category A (Scientific and Technological Invention and Production) of Nankai University "President's Cup" Innovation and Entrepreneurship Competition, April 2021
 - Nankai University Academic Excellence Scholarship (2019-2020 academic year), university-level scholarship of Nankai University, December 2020
 
-# Skills
-- Programming: C/C++, Matlab, Python, LaTeX
-- Artificial Inteligence: Pytorch, Numpy, SciPy
+# 🛠️ Skills
+- Programming: C/C++, Python, LaTeX
+- Artificial Inteligence: Pytorch, TRL, Transformers, Numpy, SciPy
 - Languages: (Mandarin) Chinese, English
