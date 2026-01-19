@@ -19,7 +19,7 @@ redirect_from:
 
 Hello everyone, I am Zixu Wang （王子旭）, a doctoral student at the State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences. My supervisor is Researcher [Xueqi Cheng](https://ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html) and Associate Researcher [Bingbing Xu](https://scholar.google.com/citations?hl=en&user=PSx2drgAAAAJ). 
 
-My research focuses on cognitive mapping and prediction of social networks, with specific interests in :**graph pre-training；graph foundation models； and topology optimization of LLM-based Multi-Agent Systems.**
+My research focuses on cognitive mapping and prediction of social networks, with specific interests in :**Graph Pre-training；Graph Foundation Models； LLM-based Multi-Agent Systems; and Societal Impact of LLM Agents**
 
 # 📖 Educations
 - 09/2022 ~ Present: Institute of Computing Technology, Chinese Academy of Sciences.
